@@ -34,9 +34,4 @@ Funcionamiento
 Opciones no validas y errores
 
 
-Acceso al proyecto
-El proyecto actualmente se encuantra alojado en Github.
-https://github.com/franciscolir/foro-hub
-Documentacion
-OpenAPI y Swagger implementados.
-http://localhost:8080/swagger-ui/index.html
+
